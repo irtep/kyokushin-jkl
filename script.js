@@ -7,7 +7,7 @@ function menuClick(clickedButton){
   switch (clickedButton){
     case 'Seura':
       informaatio = '<p>Osu!</p>'+
-        '<p>Seuramme on talkoovoimin pyörivä Jyväskylässä toimiva Kyukushinkai-karate seura. Seuramme on osa IKO1 Matsuin organisaatiota, jonka pääpaikka Suomessa on'+
+        '<p>Seuramme on Jyväskylässä toimiva Kyukushin-karate seura. Seuramme on osa IKO Kyokushinkaikan organisaatiota (IKO Matsui), jonka pääpaikka Suomessa on'+
         ' Turku, ja päävalmentaja Rebwar Shekhi. Kuulumme Suomen Karateliittoon.</p>';
     break;
     case 'Kyokushinkai Karate':
