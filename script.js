@@ -8,8 +8,7 @@ function menuClick(clickedButton){
     case 'Seura':
       informaatio = '<p>Osu!</p>'+
         '<p>Seuramme on talkoovoimin pyörivä Jyväskylässä toimiva Kyukushinkai-karate seura. Seuramme on osa IKO1 Matsuin organisaatiota, jonka pääpaikka Suomessa on'+
-        ' Turku, ja päävalmentaja Rebwar Shekhi. Kuulumme Suomen Karateliittoon.</p>'+
-        '<p>Seuran nimi on Raising Eagle Kyokushinkai Karate Jyväskylä Ry</p>';
+        ' Turku, ja päävalmentaja Rebwar Shekhi. Kuulumme Suomen Karateliittoon.</p>';
     break;
     case 'Kyokushinkai Karate':
 informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masutatsu Oyaman vuonna 1964 kehittämä karaten tyylisuunta. Se on eräs maailman suurimmista karaten tyylisuunnista. Kyokushin-tyylin ominaispiirteitä ovat kova ja realistinen harjoittelu, sparraus, sekä täydellä kontaktilla käytävät knockdown-ottelut, joissa myös reisiin kohdistuvat alapotkut ovat sallittuja. Lajilla on harrastajia yli 12 miljoonaa yli sadassa maassa. Kyokushinkai tarkoittaa ’’Lopullisen totuuden koulukuntaa/järjestöä’’. Se kuuluu maailmalla viiden suosituimman karatetyylin joukkoon. Kyokushin-karateen kuuluvat erilaiset lyönnit, potkut, tartunnat ja kaadot sekä nivellukot. Kyokushin karate poikkeaa muista karaten tyylisuunnista ottelu- ja harjoitussovelluksiltaan, olemalla suoraviivaisempi, intensiivisempi ja kovempi harjoitusmenetelmiltään. Kyokushin-karate tunnetaankin maailmanlaajuisesti vahvimpana karatena kovien treenimetodien, vaativien vyökokeiden ja täyskontaktiotteluidensa ansiosta.</p>'+
