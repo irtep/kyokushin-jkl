@@ -19,12 +19,14 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
       console.log('clicked: ', clickedButton);
     break;
     case 'Treenit ja liity mukaan':
-      informaatio = '<p>Treenaamme tällä hetkellä sekä sisällä, että ulkona. Meillä ei ole vakinaista treeniohjelmaa, vaan treenaamme sen mukaan miten porukka pääsee paikalle. '+
-      'Treenit järjestyy sen mukaan, miten porukalla on intoa, eli vaikkapa jokapäivä, tai kerran viikossa.</p>'+
-      '<p>Seuran talkooluontoisuudesta johtuen, treenaaminen on muuten ilmaista mutta karateliiton jäsenmaksu pitäisi maksaa (30e per vuosi). '+
-      'Valmentajina täällä Jyväskylän päässä toimivat Sami Kinnunen ja Juha Parviainen.</p>'+
-      'Jos haluat mukaan, niin ota yhteyttä Samiin (0409621851 finjutsu(a)hotmail.com). Aikaisempaa kokemusta ei vaadita ja kaikki ovat tervetulleita.<br><br>'+
-      '<a href="https://www.facebook.com/567391464/videos/10156368917901465/?id=567391464" target="_blank"</a>Valmentaja Samin EM-kisaottelu. Sami vasemmalla. (facebook video)';  
+      informaatio = '<p>Treenaamme tällä hetkellä sekä sisällä että ulkona. Meillä ei ole vakinaista treeniohjelmaa, vaan treenaamme '+
+'sen mukaan miten porukka pääsee paikalle. Treenien määrä järjestyy sen mukaan, miten porukalla on intoa, eli '+ 
+'vaikkapa jokapäivä, tai kerran viikossa.</p>'+
+'<p>Koska seuralla ei ole tällä hetkellä varattuja salivuoroja, ei harjoittelusta peritä maksua. Seuran jäsenmaksu on'+ '15 €/hlö vuodelle 2019, jolla katetaan mm. Suomen karateliiton ja IKO Kyokushinkaikanin lisenssimaksut.'+ 'Harjoittelijamäärän kasvaessa käymme avoimesti läpi, mitä oman tilavaruksen kustannukset tulevat olemaan '+
+'ja yhdessä päätämme olemmeko siihen valmiita sitoutumaan.</p>'+
+'<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Samia avustavat myös muut ohjaajat. Vyökokeet'+ 'järjestää ja vyöt myöntää päävalmentajamme Rebwar Sekhi.</p>'+
+'<p>Jos haluat mukaan, niin ota yhteyttä Samiin (p.040 962 1851 tai finjutsu(a)hotmail.com). Aikaisempaa kokemusta ei'+ 'vaadita ja kaikki ovat tervetulleita.</p>'+
+'<a href="https://www.facebook.com/567391464/videos/10156368917901465/?id=567391464" target="_blank"</a>Valmentaja Samin EM-kisaottelu. Sami vasemmalla. (facebook video)';  
       //window.location = "https://thenewgame.glitch.me/skirmish"; 
     break;
     case 'Ota yhteyttä':
