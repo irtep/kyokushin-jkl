@@ -1,0 +1,57 @@
+/* CSS FOR MAIN MENU SCREEN */
+* {
+  font-family: 'Ubuntu', sans-serif;
+} 
+body {
+  background: navy;
+  background: linear-gradient(navy, white, white, white, white);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  font-size: 150%;
+  color: white;
+}
+#mainMenu {
+  text-align: center;
+}
+#menuItemContainer {
+  text-align: center;
+  background: white;
+}
+.menuItem {
+  margin: 8px;
+  border-radius: 3px;
+}
+#information1{
+  color: black;
+  width: 70%;
+  height: 50px;
+  border-radius: 6px;
+  margin: 2px;
+}
+input[type=button] {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 90%;
+  border: 4px solid #000000;
+  border-radius: 3px;
+}
+input[type=button]:hover {
+  background-color: black;
+  color: white;
+}
+leftSide {
+  position: fixed;
+}
+#coaches {
+  width: 50%;
+}
+#logo {
+  width: 50px;
+}
+.fb-video {
+  position: static;
+  opacity: 1;
+}
