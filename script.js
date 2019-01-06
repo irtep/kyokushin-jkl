@@ -88,7 +88,7 @@ informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihi
       '<p>'+
 '<a href="http://www.kyokushinturku.fi/" target="_blank"</a>Kyokushin Turku</p>'+'<p>'+
 '<a href="http://kyokushinkaikan.org" target="_blank"</a>IKO Kyokushinkai</p>'+'<p>'+
-'<a href="https://karateliitto.fi/fi/" target="_blank"</a>Suomen karateliitto</p>'+;
+'<a href="https://karateliitto.fi/fi/" target="_blank"</a>Suomen karateliitto</p>';
     break;  
     default: console.log('menuClick: not found clickedButton', clickedButton);  
   }
