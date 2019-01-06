@@ -27,7 +27,8 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
 'ja yhdessä päätämme olemmeko siihen valmiita sitoutumaan.</p>'+
 '<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Samia avustavat myös muut ohjaajat. Vyökokeet '+ 
 'järjestää ja vyöt myöntää päävalmentajamme Rebwar Sekhi.</p>'+
-'<p>Jos haluat mukaan, niin ota yhteyttä Samiin (p.040 962 1851 tai finjutsu(a)hotmail.com). Aikaisempaa kokemusta ei'+ 'vaadita ja kaikki ovat tervetulleita.</p>'+
+'<p>Jos haluat mukaan, niin ota yhteyttä Samiin (p.040 962 1851 tai finjutsu(a)hotmail.com). Aikaisempaa kokemusta ei'+ 
+' vaadita ja kaikki ovat tervetulleita.</p>'+
 '<a href="https://www.facebook.com/567391464/videos/10156368917901465/?id=567391464" target="_blank"</a>Valmentaja Samin EM-kisaottelu. Sami vasemmalla. (facebook video)';  
       //window.location = "https://thenewgame.glitch.me/skirmish"; 
     break;
