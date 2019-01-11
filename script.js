@@ -81,7 +81,7 @@ informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihi
 'Hitotsu, ware ware wa, shogai no shugyo o karate no michi ni tsuji, Kyokushin no michi o matto suru koto.<br><br></p>';
     break; 
     case 'Vyökoe syllabus':
-      informaatio = 'Lisätään myöhemmin.';
+      informaatio = '<a href="IKO-Technical-Syllabus-2011_vyökoevaatimukset_Turku.rtf" download>Lataa tästä vyökoevaatimukset. </a>';
     break; 
     case 'Linkit':
       informaatio = '<p>'+
