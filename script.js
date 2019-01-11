@@ -1,7 +1,8 @@
 const info1 = document.getElementById('information1');
 // js file for Main Menu:
 
-const syllabys = ' // massive text string so decided to make own const for it.
+// massive text string so decided to make own const for it.
+const syllabys = '
 <p class="p1">&nbsp;</p>
 <p class="p2"><strong>ORANSSI VY&Ouml; 10 &ndash; 9 KYU </strong></p>
 <p class="p1">&nbsp;</p>
@@ -758,7 +759,7 @@ informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihi
 'Hitotsu, ware ware wa, shogai no shugyo o karate no michi ni tsuji, Kyokushin no michi o matto suru koto.<br><br></p>';
     break; 
     case 'Vyökoe syllabus':
-      informaatio = 'Lisätään myöhemmin...';
+      informaatio = syllabys;
     break; 
     case 'Linkit':
       informaatio = '<p>'+
