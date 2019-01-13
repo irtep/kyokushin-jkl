@@ -96,6 +96,7 @@ informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihi
 
 //  -------- ONLOAD:  ------------
 window.onload = ()=> {
+  document.getElementById('invis').classList.add("noShow");
   // start photos:
   info1.innerHTML = '<img src= "https://cdn.glitch.com/8e965a5c-48b1-4c8d-b6ae-d2a3d2bf7452%2FmasOyama.jpg?1545930871997">'+
     '<br><i>Kyokushinkai karaten perustaja Mas Oyama (kuva: Wikipedia)</i><br><br>'+
