@@ -34,8 +34,9 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
       //window.location = "https://thenewgame.glitch.me/skirmish"; 
     break;
     case 'Ota yhteyttä':
-      informaatio = 'Valmentaja Sami Kinnunen, 0409621851 finjutsu(a)hotmail.com <br>'+
-        'Nettisivuvastaava Petri Räsänen, rasanen.petri(a)gmail.com';
+      informaatio = 'Raising Eagle Kyokushinkai Karate Jyväskylä ry <br><br>'+
+      'Valmentaja Sami Kinnunen, 0409621851 finjutsu(a)hotmail.com <br>'+
+      'Nettisivuvastaava Petri Räsänen, rasanen.petri(a)gmail.com';
     break;  
     case 'Dojo kun':
 informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihin kyokushin pyrkii, kovan harjoittelun kautta. Dojo kunin on'+ ' kirjoittanut Sosai Oyama, Eiji Yoshikawan (Miyamoto Musashi kirjan kirjoittaja), avustuksella. <br><br>'+
