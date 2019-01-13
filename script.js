@@ -38,7 +38,7 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
         'Nettisivuvastaava Petri Räsänen, rasanen.petri(a)gmail.com';
     break;  
     case 'Dojo kun':
-informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihin kyokushin pyrkii, kovan harjoittelun kautta. Dojo kunin on'+ 'kirjoittanut Sosai Oyama, Eijji Yoshikawan (Miyamoto Musashi kirjan kirjoittaja), avustuksella. <br><br>'+
+informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihin kyokushin pyrkii, kovan harjoittelun kautta. Dojo kunin on'+ ' kirjoittanut Sosai Oyama, Eiji Yoshikawan (Miyamoto Musashi kirjan kirjoittaja), avustuksella. <br><br>'+
 'Englanniksi:<br><br>'+
 
 'We will train our hearts and bodies<br>'+
