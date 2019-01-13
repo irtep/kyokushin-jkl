@@ -55,6 +55,6 @@ leftSide {
   position: static;
   opacity: 1;
 }
-#invis {
+.noShow {
   opacity: 0;
 }
