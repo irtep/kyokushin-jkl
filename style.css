@@ -2,17 +2,14 @@
 * {
   font-family: 'Ubuntu', sans-serif;
 } 
+
 body {
   background: navy;
   background: linear-gradient(navy, white, white, white, white);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-h1 {
-  text-align: center;
-  font-size: 150%;
-  color: white;
-}
+
 #mainMenu {
   text-align: center;
 }
@@ -57,4 +54,15 @@ leftSide {
 }
 .noShow {
   opacity: 0;
+}
+
+/* bigger font for mobile users */
+@media only screen and (max-width: 768px) {
+  font-size: 140%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 150%;
+  color: white;
 }
