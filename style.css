@@ -56,15 +56,12 @@ leftSide {
   opacity: 0;
 }
 
-/* bigger font for mobile users */
-@media only screen and (max-width: 600px) {
-
-}
-
 /*left side kanshin to hide in mobiles*/
+/*and bigger font*/
 @media screen and (max-width: 600px) {
-  /*font-size: 140%;
-  */
+  body {
+    font-size: 140%;
+  }
   #leftSide {
     visibility: hidden;
     clear: both;
