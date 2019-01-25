@@ -63,7 +63,7 @@ leftSide {
 
 /*left side kanshin to hide in mobiles*/
 @media screen and (max-width: 600px) {
-  font-size: 140%;
+  font-size: 240%;
   color: green;
   
   #leftSide {
