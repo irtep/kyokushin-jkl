@@ -23,7 +23,7 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
       informaatio = '<p>Treenaamme tällä hetkellä sekä sisällä että ulkona. Meillä ei ole vakinaista treeniohjelmaa, vaan treenaamme '+
 'sen mukaan miten porukka pääsee paikalle. Treenien määrä järjestyy sen mukaan, miten porukalla on intoa, eli '+ 
 'vaikkapa jokapäivä, tai kerran viikossa.</p>'+
-'<p>Koska seuralla ei ole tällä hetkellä varattuja salivuoroja, ei harjoittelusta peritä maksua. Seuran jäsenmaksu on '+ '15 €/hlö vuodelle 2019, jolla katetaan mm. Suomen karateliiton ja IKO Kyokushinkaikanin lisenssimaksut.'+ 
+'<p>Harrastus maksaa '+ '10 €/per kuukausi / hlö, jolla katetaan mm. Suomen karateliiton ja IKO Kyokushinkaikanin lisenssimaksut.'+ 
 ' Harjoittelijamäärän kasvaessa käymme avoimesti läpi, mitä oman tilavaruksen kustannukset tulevat olemaan '+
 'ja yhdessä päätämme olemmeko siihen valmiita sitoutumaan.</p>'+
 '<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Samia avustavat myös muut ohjaajat. Vyökokeet '+ 
