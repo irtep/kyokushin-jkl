@@ -65,7 +65,7 @@ informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihi
 'we will seek to fulfil the true meaning of the<br>'+
 'Kyokushin Way.<br><br>'+
 
-'Japaniksi<br><br>'+
+'Japaniksi:<br><br>'+
 
 'Hitotsu, ware ware wa, shinshin o renmashi kakko fubatsu no shingi o kiwameru koto.<br><br>'+
 
