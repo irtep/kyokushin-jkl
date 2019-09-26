@@ -24,7 +24,7 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
 '. Ulkotreenien määrä järjestyy sen mukaan, miten porukalla on intoa, eli '+ 
 'vaikkapa jokapäivä, tai kerran viikossa.</p>'+
 '<p>Treeniaikamme Halssilan koululla: <br> Maanantaisin: 20:00 - 21:30<br> Keskiviikkoisin: 20:45 - 21:45<br> Torstaisin: 20:30 - 22:00<br><br>'+
-'<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Turku Open Kyokushin Tournament 2019. Kumite (ottelu), sekä Kata (liikesarja) voittaja.<br>'+
+'<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Turku Open Kyokushin Tournament 2019. Kumite (ottelu), sekä Kata (liikesarja) voittaja. EM-kisa 2019 kumiten hopeamitalisti.<br>'+
 'Samia avustavat myös muut ohjaajat. Vyökokeet järjestää ja vyöt myöntää päävalmentajamme Rebwar Sekhi, 4-dan Shihan. </p>'+
 '<p>Jos haluat mukaan, niin ota yhteyttä Samiin (p.040 962 1851 tai finjutsu(a)hotmail.com). Aikaisempaa kokemusta ei'+ 
 ' vaadita ja kaikki ovat tervetulleita.</p>'+
