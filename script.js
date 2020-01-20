@@ -21,7 +21,7 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
     break;
     case 'Treenit ja liity mukaan':
       informaatio = '<p>Treenaamme tällä hetkellä sekä sisällä että ulkona.'+
-'. Ulkotreenien määrä järjestyy sen mukaan, miten porukalla on intoa, eli '+ 
+' Treenien määrä järjestyy sen mukaan, miten porukalla on intoa, eli '+ 
 'vaikkapa jokapäivä, tai kerran viikossa.</p>'+ /*
 '<p>Treeniaikamme Halssilan koululla: <br> Maanantaisin: 20:00 - 21:30<br>Keskiviikkoisin: 20:45 - 21:45<br> Torstaisin: 20:30 - 22:00<br><br>'+ */
 '<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Turku Open Kyokushin Tournament 2019. Kumite (ottelu), sekä Kata (liikesarja) voittaja. EM-kisa 2019 kumiten hopeamitalisti.<br>'+
