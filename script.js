@@ -8,7 +8,7 @@ function menuClick(clickedButton){
     case 'Seura':
       informaatio = '<p>Osu!</p>'+
         '<p>Seuramme on Jyväskylässä toimiva Kyukushin-karate seura. Seuramme on osa IKO Kyokushinkaikan organisaatiota (IKO Matsui), jonka pääpaikka Suomessa on'+
-        ' Turku, ja päävalmentaja Rebwar Shekhi./* Kuulumme Suomen Karateliittoon.*/</p><br>'+
+        ' Turku, ja päävalmentaja Rebwar Shekhi.</p><br>'+
         '<img id= "logoMain" src= "images/kankun.jpg">';
     break;
     case 'Kyokushin Karate':
