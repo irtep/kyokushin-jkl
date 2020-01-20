@@ -84,12 +84,10 @@ informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihi
       informaatio = '<a href="IKO-Technical-Syllabus-2011_vyökoevaatimukset_Turku.rtf" download>Lataa tästä vyökoevaatimukset. </a>';
     break; 
     case 'Linkit':
-      informaatio = <p>
-'<a href="http://www.kyokushinkaikan.org/en/index.html" target="_blank"</a>Virallinen liiton sivusto</p><p>
-'<a href="http://www.kyokushinturku.fi/" target="_blank"</a>Kyokushin Turku</p><p>`;
-      /*
-'<a href="https://karateliitto.fi/fi/" target="_blank"</a>Suomen karateliitto</p>';
-*/
+      informaatio = `<p>
+<a href="http://www.kyokushinkaikan.org/en/index.html" target="_blank"</a>Virallinen liiton sivusto</p><p>
+<a href="http://www.kyokushinturku.fi/" target="_blank"</a>Kyokushin Turku</p>
+<p>`;
     break;  
     default: console.log('menuClick: not found clickedButton', clickedButton);  
   }
