@@ -8,7 +8,7 @@ function menuClick(clickedButton){
     case 'Seura':
       informaatio = '<p>Osu!</p>'+
         '<p>Seuramme on Jyväskylässä toimiva Kyukushin-karate seura. Seuramme on osa IKO Kyokushinkaikan organisaatiota (IKO Matsui), jonka pääpaikka Suomessa on'+
-        ' Turku, ja päävalmentaja Rebwar Shekhi. Kuulumme Suomen Karateliittoon.</p><br>'+
+        ' Turku, ja päävalmentaja Rebwar Shekhi./* Kuulumme Suomen Karateliittoon.*/</p><br>'+
         '<img id= "logoMain" src= "images/kankun.jpg">';
     break;
     case 'Kyokushin Karate':
@@ -22,8 +22,8 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
     case 'Treenit ja liity mukaan':
       informaatio = '<p>Treenaamme tällä hetkellä sekä sisällä että ulkona.'+
 '. Ulkotreenien määrä järjestyy sen mukaan, miten porukalla on intoa, eli '+ 
-'vaikkapa jokapäivä, tai kerran viikossa.</p>'+
-'<p>Treeniaikamme Halssilan koululla: <br> Maanantaisin: 20:00 - 21:30<br> Keskiviikkoisin: 20:45 - 21:45<br> Torstaisin: 20:30 - 22:00<br><br>'+
+'vaikkapa jokapäivä, tai kerran viikossa.</p>'+ /*
+'<p>Treeniaikamme Halssilan koululla: <br> Maanantaisin: 20:00 - 21:30<br>Keskiviikkoisin: 20:45 - 21:45<br> Torstaisin: 20:30 - 22:00<br><br>'+ */
 '<p>Päävastuullisena valmentajana Jyväskylässä toimii Sami Kinnunen. Turku Open Kyokushin Tournament 2019. Kumite (ottelu), sekä Kata (liikesarja) voittaja. EM-kisa 2019 kumiten hopeamitalisti.<br>'+
 'Samia avustavat myös muut ohjaajat. Vyökokeet järjestää ja vyöt myöntää päävalmentajamme Rebwar Sekhi, 4-dan Shihan. </p>'+
 '<p>Jos haluat mukaan, niin ota yhteyttä Samiin (p.040 962 1851 tai finjutsu(a)hotmail.com). Aikaisempaa kokemusta ei'+ 
@@ -32,9 +32,10 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
       //window.location = "https://thenewgame.glitch.me/skirmish"; 
     break;
     case 'Ota yhteyttä':
-      informaatio = 'Rising Eagle Kyokushinkai Karate Jyväskylä ry <br><br>'+
-      'Valmentaja Sami Kinnunen, 0409621851 finjutsu(a)hotmail.com <br>'+
-      'Nettisivuvastaava Petri Räsänen, rasanen.petri(a)gmail.com';
+      informaatio = `Rising Eagle Kyokushinkai Karate Jyväskylä ry <br><br>
+      Valmentaja Sami Kinnunen, 0409621851 finjutsu(a)hotmail.com <br>
+      Nettisivuvastaava Petri Räsänen, rasanen.petri(a)gmail.com<br><br>
+      <a href= "https://www.facebook.com/profile.php?id=100011536548315" target="_blank">Facebook sivustomme</a>`;
     break;  
     case 'Dojo kun':
 informaatio = '<p class= "infoText">Dojo kun, eli dojo vala on tiivistelmä mihin kyokushin pyrkii, kovan harjoittelun kautta. Dojo kunin on'+ ' kirjoittanut Sosai Oyama, Eiji Yoshikawan (Miyamoto Musashi kirjan kirjoittaja), avustuksella. <br><br>'+
