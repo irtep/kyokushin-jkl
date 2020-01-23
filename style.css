@@ -2,17 +2,14 @@
 * {
   font-family: 'Ubuntu', sans-serif;
 } 
+
 body {
   background: navy;
   background: linear-gradient(navy, white, white, white, white);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-h1 {
-  text-align: center;
-  font-size: 150%;
-  color: white;
-}
+
 #mainMenu {
   text-align: center;
 }
@@ -54,4 +51,31 @@ leftSide {
 .fb-video {
   position: static;
   opacity: 1;
+}
+.noShow {
+  opacity: 0;
+}
+
+/*left side kanshin to hide in mobiles*/
+/*and bigger font*/
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 140%;
+  }
+  #leftSide {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+  #logo {
+    opacity: 0;
+  }
+}
+h1 {
+  text-align: center;
+  font-size: 150%;
+  color: white;
 }
