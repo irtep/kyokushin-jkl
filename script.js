@@ -32,7 +32,7 @@ informaatio = '<p class= "infoText">Kyokushin on korealaissyntyisen Sosai Masuta
       //window.location = "https://thenewgame.glitch.me/skirmish"; 
     break;
     case 'Ota yhteyttä':
-      informaatio = `Rising Eagle Kyokushinkai Karate Jyväskylä ry <br><br>
+      informaatio = `Polaris Kyokushinkaikan organization Jyväskylä <br><br>
       Valmentaja Sami Kinnunen, 0409621851 finjutsu(a)hotmail.com <br>
       Nettisivuvastaava Petri Räsänen, rasanen.petri(a)gmail.com<br><br>
       <a href= "https://www.facebook.com/profile.php?id=100011536548315" target="_blank">Facebook sivustomme</a>`;
