@@ -1,7 +1,7 @@
 /* CSS FOR MAIN MENU SCREEN */
 * {
   font-family: 'Ubuntu', sans-serif;
-} 
+}
 
 body {
   background: navy;
@@ -69,6 +69,10 @@ leftSide {
     margin: 10px auto 5px 20px;
     width: 28%;
     display: none;
+  }
+  .menuItem {
+    margin: 10px;
+    border-radius: 3px;
   }
 }
 h1 {
